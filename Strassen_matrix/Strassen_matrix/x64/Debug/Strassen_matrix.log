@@ -1,0 +1,609 @@
+﻿  Matrix.cpp
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(433,17): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+  (编译源文件“Matrix.cpp”)
+  C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(433,17):
+  模板实例化上下文(最早的实例化上下文)为
+  	C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(20,7):
+  	在编译类模板“Matrix”时
+  
+  SparseMatrix.cpp
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(433,17): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+  (编译源文件“SparseMatrix.cpp”)
+  C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(433,17):
+  模板实例化上下文(最早的实例化上下文)为
+  	C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(20,7):
+  	在编译类模板“Matrix”时
+  
+  main.cpp
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(433,17): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+  (编译源文件“main.cpp”)
+  C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(433,17):
+  模板实例化上下文(最早的实例化上下文)为
+  	C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(20,7):
+  	在编译类模板“Matrix”时
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(819,41): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(819,41): warning C4267:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(819,41): warning C4267:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(819,41): warning C4267:             _Ty=int
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(819,41): warning C4267:         ]
+  (编译源文件“main.cpp”)
+  C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(819,41):
+  模板实例化上下文(最早的实例化上下文)为
+  	C:\Users\86159\source\repos\Strassen_matrix\main.cpp(120,55):
+  	查看对正在编译的函数 模板 实例化“std::pair<Matrix<double>,Matrix<double>> kMeans<double>(Matrix<double> &,size_t,int)”的引用
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(905,35): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(950,71): warning C4244: “=”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(950,71): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(950,71): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(950,71): warning C4244:             _Rep=__int64
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(950,71): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1035,23): warning C4244: “+=”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1035,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1035,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1035,23): warning C4244:             _Rep=__int64
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1035,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1035,23):
+  模板实例化上下文(最早的实例化上下文)为
+  	C:\Users\86159\source\repos\Strassen_matrix\main.cpp(125,28):
+  	查看对正在编译的函数 模板 实例化“Matrix<double> cMultiply<double>(Matrix<double> &,Matrix<double> &,Matrix<double> &)”的引用
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1061,23): warning C4244: “+=”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1061,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1061,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1061,23): warning C4244:             _Rep=__int64
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1061,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1070,23): warning C4244: “+=”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1070,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1070,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1070,23): warning C4244:             _Rep=__int64
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1070,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1089,23): warning C4244: “+=”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1089,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1089,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1089,23): warning C4244:             _Rep=__int64
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1089,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1125,41): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1125,41): warning C4267:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1125,41): warning C4267:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1125,41): warning C4267:             _Ty=int
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1125,41): warning C4267:         ]
+  (编译源文件“main.cpp”)
+  C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1125,41):
+  模板实例化上下文(最早的实例化上下文)为
+  	C:\Users\86159\source\repos\Strassen_matrix\main.cpp(127,59):
+  	查看对正在编译的函数 模板 实例化“std::pair<Matrix<double>,Matrix<double>> kMeans_ori<double>(Matrix<double> &,size_t,int)”的引用
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(1160,35): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(642,13): warning C4244: “初始化”: 从“size_t”转换到“T”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(642,13): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(642,13): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(642,13): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(642,13): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(642,13):
+  模板实例化上下文(最早的实例化上下文)为
+  	C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(640,22):
+  	在编译 类 模板 成员函数“Matrix<double> Matrix<double>::Coppersmith(Matrix<double>,Matrix<double>,int &,int &)”时
+  		C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(863,23):
+  		请参阅 "kMeans" 中对 "Matrix<double>::Coppersmith" 的第一个引用
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(643,13): warning C4244: “初始化”: 从“size_t”转换到“T”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(643,13): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(643,13): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(643,13): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(643,13): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(644,13): warning C4244: “初始化”: 从“size_t”转换到“T”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(644,13): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(644,13): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(644,13): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(644,13): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(647,26): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(647,26): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(647,26): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(647,26): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(647,26): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(647,23): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(647,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(647,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(647,23): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(647,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(648,26): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(648,26): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(648,26): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(648,26): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(648,26): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(648,23): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(648,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(648,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(648,23): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(648,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(649,26): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(649,26): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(649,26): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(649,26): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(649,26): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(649,23): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(649,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(649,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(649,23): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(649,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(650,26): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(650,26): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(650,26): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(650,26): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(650,26): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(650,23): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(650,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(650,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(650,23): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(650,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(651,26): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(651,26): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(651,26): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(651,26): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(651,26): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(651,23): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(651,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(651,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(651,23): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(651,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(652,26): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(652,26): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(652,26): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(652,26): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(652,26): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(652,23): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(652,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(652,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(652,23): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(652,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(653,26): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(653,26): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(653,26): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(653,26): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(653,26): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(653,23): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(653,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(653,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(653,23): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(653,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(654,26): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(654,26): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(654,26): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(654,26): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(654,26): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(654,23): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(654,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(654,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(654,23): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(654,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(659,33): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(659,33): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(659,33): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(659,33): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(659,33): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(660,36): warning C4244: “参数”: 从“T”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(660,36): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(660,36): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(660,36): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(660,36): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(661,33): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(661,33): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(661,33): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(661,33): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(661,33): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(661,40): warning C4244: “参数”: 从“T”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(661,40): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(661,40): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(661,40): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(661,40): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(667,33): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(667,33): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(667,33): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(667,33): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(667,33): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(668,36): warning C4244: “参数”: 从“T”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(668,36): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(668,36): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(668,36): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(668,36): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(669,33): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(669,33): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(669,33): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(669,33): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(669,33): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(669,40): warning C4244: “参数”: 从“T”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(669,40): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(669,40): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(669,40): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(669,40): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(681,22): warning C4244: “+=”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(681,22): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(681,22): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(681,22): warning C4244:             _Rep=__int64
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(681,22): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(731,22): warning C4244: “+=”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(731,22): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(731,22): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(731,22): warning C4244:             _Rep=__int64
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(731,22): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(745,22): warning C4244: “+=”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(745,22): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(745,22): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(745,22): warning C4244:             _Rep=__int64
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(745,22): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(748,30): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(748,30): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(748,30): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(748,30): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(748,30): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(748,23): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(748,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(748,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(748,23): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(748,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(752,21): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(752,21): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(752,21): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(752,21): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(752,21): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(753,24): warning C4244: “参数”: 从“T”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(753,24): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(753,24): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(753,24): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(753,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(754,21): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(754,21): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(754,21): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(754,21): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(754,21): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(754,28): warning C4244: “参数”: 从“T”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(754,28): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(754,28): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(754,28): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(754,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(537,13): warning C4244: “初始化”: 从“size_t”转换到“T”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(537,13): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(537,13): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(537,13): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(537,13): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(537,13):
+  模板实例化上下文(最早的实例化上下文)为
+  	C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(535,22):
+  	在编译 类 模板 成员函数“Matrix<double> Matrix<double>::Strassen(Matrix<double>,Matrix<double>,int &,int &)”时
+  		C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(865,22):
+  		请参阅 "kMeans" 中对 "Matrix<double>::Strassen" 的第一个引用
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(538,13): warning C4244: “初始化”: 从“size_t”转换到“T”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(538,13): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(538,13): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(538,13): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(538,13): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(539,13): warning C4244: “初始化”: 从“size_t”转换到“T”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(539,13): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(539,13): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(539,13): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(539,13): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(542,26): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(542,26): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(542,26): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(542,26): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(542,26): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(542,23): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(542,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(542,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(542,23): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(542,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(543,26): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(543,26): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(543,26): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(543,26): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(543,26): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(543,23): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(543,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(543,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(543,23): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(543,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(544,26): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(544,26): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(544,26): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(544,26): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(544,26): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(544,23): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(544,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(544,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(544,23): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(544,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(545,26): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(545,26): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(545,26): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(545,26): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(545,26): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(545,23): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(545,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(545,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(545,23): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(545,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(546,26): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(546,26): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(546,26): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(546,26): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(546,26): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(546,23): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(546,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(546,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(546,23): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(546,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(547,26): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(547,26): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(547,26): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(547,26): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(547,26): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(547,23): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(547,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(547,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(547,23): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(547,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(548,26): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(548,26): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(548,26): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(548,26): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(548,26): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(548,23): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(548,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(548,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(548,23): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(548,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(549,26): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(549,26): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(549,26): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(549,26): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(549,26): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(549,23): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(549,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(549,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(549,23): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(549,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(554,33): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(554,33): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(554,33): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(554,33): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(554,33): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(555,36): warning C4244: “参数”: 从“T”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(555,36): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(555,36): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(555,36): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(555,36): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(556,33): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(556,33): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(556,33): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(556,33): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(556,33): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(556,40): warning C4244: “参数”: 从“T”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(556,40): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(556,40): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(556,40): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(556,40): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(562,33): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(562,33): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(562,33): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(562,33): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(562,33): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(563,36): warning C4244: “参数”: 从“T”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(563,36): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(563,36): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(563,36): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(563,36): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(564,33): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(564,33): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(564,33): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(564,33): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(564,33): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(564,40): warning C4244: “参数”: 从“T”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(564,40): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(564,40): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(564,40): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(564,40): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(582,23): warning C4244: “+=”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(582,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(582,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(582,23): warning C4244:             _Rep=__int64
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(582,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(613,23): warning C4244: “+=”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(613,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(613,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(613,23): warning C4244:             _Rep=__int64
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(613,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(624,23): warning C4244: “+=”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(624,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(624,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(624,23): warning C4244:             _Rep=__int64
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(624,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(627,30): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(627,30): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(627,30): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(627,30): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(627,30): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(627,23): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(627,23): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(627,23): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(627,23): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(627,23): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(631,21): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(631,21): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(631,21): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(631,21): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(631,21): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(632,24): warning C4244: “参数”: 从“T”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(632,24): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(632,24): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(632,24): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(632,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(633,21): warning C4244: “参数”: 从“T”转换到“size_t”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(633,21): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(633,21): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(633,21): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(633,21): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(633,28): warning C4244: “参数”: 从“T”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(633,28): warning C4244:         with
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(633,28): warning C4244:         [
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(633,28): warning C4244:             T=double
+C:\Users\86159\source\repos\Strassen_matrix\Matrix.h(633,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+  正在生成代码...
+  Strassen_matrix.vcxproj -> C:\Users\86159\source\repos\Strassen_matrix\x64\Debug\Strassen_matrix.exe
